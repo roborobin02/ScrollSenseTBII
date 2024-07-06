@@ -16,7 +16,7 @@ It should therefore help you improving your habits.
 
 1: Clone my repository in a location of your choice
 <br/>
-git clone https://github.com/shaq31415926/sarah-haq-tbii-exam.git
+git clone https://github.com/roborobin02/ScrollSenseTBII
 <br/>
 
 2: Change the directory:
